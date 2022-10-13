@@ -1,7 +1,6 @@
-
 #include <stdio.h>
 /**
- * main - prints the sizes of various types
+ * main - prints the sizes of various files
  * Return: 0 if exited properly, non-zero otherwise
  */
 int main(void)
