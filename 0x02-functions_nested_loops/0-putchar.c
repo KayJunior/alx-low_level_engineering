@@ -1,4 +1,4 @@
-#include "_putchar(char c)"
+#include "_putchar"
 
 /**
  * main - prints Main, followed by a new line
