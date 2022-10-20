@@ -9,10 +9,10 @@ int main(void)
 {
 	int i;
 
-	printf("Infinite loop incoming :('\n')");
+	printf("Infinite loop incoming :('\ni");
 	i = 0
 		/*
-		 * while (i < 0)
+		 * while (i < 10)
 		 * {
 		 * putchar(i);
 		 * }
